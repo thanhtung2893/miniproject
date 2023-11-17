@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      
+      "id":1,
+      "image":"https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone8-plus-silver-select-2018_6_3.png",
+      "name":"ip8",
+      "price":3000
+    },
+    
+    {
+      "id":2,
+      "image":"https://damluongstore.com.vn/wp-content/uploads/2018/10/iphoneX-silver.png",
+      "name":"ipx",
+      "price":50000
+    },
+    {
+      "id":3,
+      "image":"https://hc.com.vn/i/ecommerce/media/GS.006643_FEATURE_73977.jpg",
+      "name":"11",
+      "price":5000
+    },
+    {
+      "id":4,
+      "image":"https://www.xtmobile.vn/vnt_upload/product/08_2019/600_600_600_iphone_12_mini_xanh_duong_xtmobile_1_1.jpg",
+      "name":"12",
+      "price":44000
+    }
+  ]
+
+}
+
+
+    
+  
+     
+       
+       
+      
+
+    
+    
